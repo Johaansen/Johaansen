@@ -2,7 +2,7 @@
 - 👀 I’m interested in swimming and coding and crypto
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on coding and crypto related 
-- 📫 How to reach me, find me ot twitter : @johanaas110
+- 📫 How to reach me, find me ot twitter : @johanaas110 and discord Johaansen#8930
 
 <!---
 Johaansen/Johaansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
