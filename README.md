@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript and java
 - 💞️ I’m looking to collaborate on coding and crypto related 
 - 📫 How to reach me, u can find me ot twitter : @johanaas110 and discord Johaansen#8930
-- i like sunsets 
+- i like sunsets and enjoying time with loved one there 
 
 <!---
 Johaansen/Johaansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
